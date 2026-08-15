@@ -54,7 +54,7 @@ const COPY = {
     aboutP1: "Ingeniero de automatización e integraciones con más de 2 años conectando sistemas de negocio y sustituyendo procesos manuales en ventas, atención al cliente y operaciones. Trabajo end-to-end: levantamiento del proceso, diseño de la arquitectura (orquestador + subflujos), modelado de la capa de datos y puesta en producción con monitoreo de errores.",
     aboutP2: "Especializado en Python, n8n y agentes con LangChain, con base sólida de desarrollo full stack (React, Laravel, Spring Boot) que me permite construir el conector a medida cuando la herramienta estándar no llega. He entregado soluciones para clientes de Ecuador, Estados Unidos y México, en modalidad remota y como freelance.",
     aboutEdu: "INGENIERÍA EN SOFTWARE · UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE — LATACUNGA",
-    facts: [["+2","años en automatización"],["3","países atendidos"],["+20","flujos en producción"],["C1","inglés"]],
+    facts: [["+2","años en automatización"],["+20","flujos en producción"],["B1","inglés"]],
     stackTitle: "COMPETENCIAS TÉCNICAS",
     stackSub: "Herramientas y lenguajes con los que trabajo a diario.",
     sapTitle: "INTEGRACIONES SAP BUSINESS ONE",
